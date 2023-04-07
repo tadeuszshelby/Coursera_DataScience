@@ -1,0 +1,10 @@
+#Credential to login do my databse in ibm cloud 
+ibm_db_sa = "ibm_db_sa://byx91326:4cUk3lzntS9KtMYN@21fecfd8-47b7-4937-840d-d791d0218660.bs2io90l08kqb1od8lcg.databases.appdomain.cloud:31864/bludb?security=SSL"
+dsn_hostname = "21fecfd8-47b7-4937-840d-d791d0218660.bs2io90l08kqb1od8lcg.databases.appdomain.cloud"
+dsn_uid = "byx91326"
+dsn_pwd = "4cUk3lzntS9KtMYN"
+dsn_driver = "{IBM DB2 ODBC DRIVER}"
+dsn_database = "bludb"
+dsn_port = "31864"
+dsn_protocol = "TCPIP"
+dsn_security = "SSL"
