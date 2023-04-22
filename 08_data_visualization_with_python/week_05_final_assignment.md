@@ -29,7 +29,7 @@ For the chosen year provide,
 NOTE: You have worked created the same dashboard components in <kbd>Flight Delay Time Statistics Dashboard</kbd> section. We will be reusing the same.
 
 ## Expected Layout ##
-Picture !!!!
+![image description](img/expected_layout.png)
 
 ## Requirements to create the expected result ##
 * Two dropdown menus: For choosing report type and year
